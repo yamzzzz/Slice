@@ -2,6 +2,8 @@
 
 A sample for demonstrating how to use Android Slices.
 
+You can view the Slices in SliceViewer App, which can be downloaded, <a href="https://github.com/googlesamples/android-SliceViewer/releases">here.</a>
+
 <b>(a) Simple - Title & SubTitle </b>
 <br/>
 <div align="left">
