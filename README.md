@@ -15,3 +15,5 @@ You can view the Slices in SliceViewer App, which can be downloaded, <a href="ht
 <div align="left">
     <img src="/slice_out1.png" width="200px"</img> 
 </div>
+
+Refer: https://yamikrish.blogspot.com/2019/07/exploring-android-slices.html
